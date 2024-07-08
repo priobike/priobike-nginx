@@ -3,7 +3,7 @@
 This repo is used to run a nginx with a modified configuration so that the logging is reduced and the client IP addresses are eliminated from the logs.
 The custom configuration file is in the `nginx.conf` file.
 
-This image is used for multiple other PrioBike services e.g. [Priobike-Privacy-Policy-Service](https://github.com/priobike/priobike-privacy-policy-service), [Priobike-Load-Service](https://github.com/priobike/priobike-load-service), and more.
+This image is used for multiple other PrioBike services e.g. [Priobike-Privacy-Policy-Service](https://github.com/priobike/priobike-privacy-policy-service), [Priobike-Load-Service](https://github.com/priobike/priobike-load-service) and more.
 
 [Learn more about PrioBike](https://github.com/priobike)
 
