@@ -1,4 +1,4 @@
-# PrioBike Nginx
+# priobike-nginx
 
 This repo is used to run a nginx with a modified configuration so that the logging is reduced and the client IP addresses are eliminated from the logs.
 The custom configuration file is in the `nginx.conf` file.
